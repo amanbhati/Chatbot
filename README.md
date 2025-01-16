@@ -79,7 +79,7 @@ The backend will run on `http://127.0.0.1:5000`.
 ### **7. Run the Frontend**
 Start the Streamlit frontend:
 ```bash
-streamlit run streamlit_ui.py
+streamlit run streamlit.py
 ```
 The Streamlit app will open in your default browser at `http://localhost:8501`.
 
