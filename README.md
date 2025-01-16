@@ -70,7 +70,7 @@ Replace the placeholders in your Flask backend script (`your_flask_backend.py`) 
 ### **6. Run the Backend**
 Start the Flask backend server:
 ```bash
-python your_flask_backend.py
+python chatbot.py
 ```
 The backend will run on `http://127.0.0.1:5000`.
 
@@ -79,7 +79,7 @@ The backend will run on `http://127.0.0.1:5000`.
 ### **7. Run the Frontend**
 Start the Streamlit frontend:
 ```bash
-streamlit run streamlit_ui.py
+streamlit run streamlit.py
 ```
 The Streamlit app will open in your default browser at `http://localhost:8501`.
 
