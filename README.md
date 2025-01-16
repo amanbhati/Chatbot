@@ -110,7 +110,7 @@ ai-powered-chatbot/
 
 ## **Screenshots**
 ### **Chatbot Interface**
-![Chatbot Interface](https://via.placeholder.com/800x400.png?text=Chatbot+Interface)
+![Chatbot Interface](https://github.com/amanbhati/Chatbot/blob/main/Screenshot%202025-01-16%20144502.png)
 
 ### **Image-to-Text Interface**
 ![Image-to-Text Interface](https://github.com/amanbhati/Chatbot/blob/main/Screenshot%202025-01-16%20144530.png)
