@@ -129,7 +129,4 @@ We welcome contributions! Feel free to submit issues or pull requests to improve
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## **Contact**
-📧 Email: yourname@example.com  
-💻 GitHub: [@yourusername](https://github.com/yourusername)  
+  
