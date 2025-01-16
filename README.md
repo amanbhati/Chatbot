@@ -116,7 +116,7 @@ ai-powered-chatbot/
 ![Image-to-Text Interface](https://github.com/amanbhati/Chatbot/blob/main/Screenshot%202025-01-16%20144530.png)
 
 ### **Generate Image Interface**
-![Generate Image Interface](Screenshot 2025-01-16 144552.png)
+![Generate Image Interface](https://github.com/amanbhati/Chatbot/blob/main/Screenshot%202025-01-16%20144552.png)
 
 ---
 
