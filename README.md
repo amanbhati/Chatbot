@@ -70,7 +70,7 @@ Replace the placeholders in your Flask backend script (`your_flask_backend.py`) 
 ### **6. Run the Backend**
 Start the Flask backend server:
 ```bash
-python chatbot.py
+python your_flask_backend.py
 ```
 The backend will run on `http://127.0.0.1:5000`.
 
@@ -79,7 +79,7 @@ The backend will run on `http://127.0.0.1:5000`.
 ### **7. Run the Frontend**
 Start the Streamlit frontend:
 ```bash
-streamlit run streamlit.py
+streamlit run streamlit_ui.py
 ```
 The Streamlit app will open in your default browser at `http://localhost:8501`.
 
@@ -110,13 +110,13 @@ ai-powered-chatbot/
 
 ## **Screenshots**
 ### **Chatbot Interface**
-![Chatbot Interface](https://github.com/amanbhati/Chatbot/blob/main/Screenshot%202025-01-16%20144502.png)
+![Chatbot Interface](https://via.placeholder.com/800x400.png?text=Chatbot+Interface)
 
 ### **Image-to-Text Interface**
-![Image-to-Text Interface](https://github.com/amanbhati/Chatbot/blob/main/Screenshot%202025-01-16%20144530.png)
+![Image-to-Text Interface](https://via.placeholder.com/800x400.png?text=Image-to-Text+Interface)
 
 ### **Generate Image Interface**
-![Generate Image Interface](https://github.com/amanbhati/Chatbot/blob/main/Screenshot%202025-01-16%20144552.png)
+![Generate Image Interface](https://via.placeholder.com/800x400.png?text=Generate+Image+Interface)
 
 ---
 
@@ -129,4 +129,7 @@ We welcome contributions! Feel free to submit issues or pull requests to improve
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-  
+
+## **Contact**
+📧 Email: yourname@example.com  
+💻 GitHub: [@yourusername](https://github.com/yourusername)  
