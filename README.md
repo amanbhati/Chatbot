@@ -31,7 +31,7 @@ Ensure you have the following installed on your system:
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/ai-powered-chatbot.git
+git clone https://github.com/amanbhati/Chatbot.git
 cd ai-powered-chatbot
 ```
 
